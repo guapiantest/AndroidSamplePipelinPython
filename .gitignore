@@ -1,2 +1,3 @@
+# 哪些文件需要忽略，不进行提交
 test.py
-test2.pygit
+test2.py
