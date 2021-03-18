@@ -76,3 +76,6 @@ def get_file(path, rule=''):
             if os.path.join(fpath, f).endswith(rule):
                 files.append(f)
     return files
+
+
+# njoesnvefjon;vogf
